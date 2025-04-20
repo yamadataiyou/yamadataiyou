@@ -1,6 +1,6 @@
-<!-- アニメーションバッジ -->
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&style=plastic&color=blueviolet" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=yamadataiyou&style=plastic&color=blueviolet" alt="Profile Views"/>
 </p>
 
 <!-- スネークゲームアニメーション -->
