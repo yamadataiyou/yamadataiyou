@@ -5,8 +5,9 @@
 
 <!-- スネークゲームアニメーション -->
 <p align="center">
-  <img src="https://github.com/yamadataiyou/yamadataiyou/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img src="https://github.com/yamadataiyou/yamadataiyou/blob/main/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
+
 
 <!-- 自己紹介 -->
 <h1 align="center">こんにちは、大陽です ☀️</h1>
