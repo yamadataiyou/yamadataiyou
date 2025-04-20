@@ -1,8 +1,4 @@
 <h1 align="center">こんにちは、太陽です ☀️</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7A41D&center=true&vCenter=true&width=435&lines=大学生+%F0%9F%8F%93;Vue.js+%E3%81%A7%E6%8B%A1%E5%BC%B5%E6%A9%9F%E8%83%BD%E9%96%8B%E7%99%BA%E4%B8%AD+%F0%9F%92%BB;GitHub+%E3%81%A7%E6%97%A5%E3%80%85%E6%88%90%E9%95%B7%E4%B8%AD+%F0%9F%8C%8A" alt="Typing SVG" />
-</p>
-
 ---
 
 ## 🧑‍🎓 自己紹介
@@ -30,23 +26,6 @@
 ![太陽のGitHub統計](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 ![使用言語](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
 
----
-
-## 🌐 ソーシャルリンク
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=firefox&logoColor=white)](https://yourportfolio.com)
-
----
-
-## 📝 最新のブログ投稿
-
-<!-- BLOG-POST-LIST:START -->
-- [記事タイトル1](リンク1)
-- [記事タイトル2](リンク2)
-- [記事タイトル3](リンク3)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
@@ -56,9 +35,3 @@
 - 📚 読書
 - 🕹️ ゲーム
 - ✈️ 旅行
-
----
-
-## 📫 お問い合わせ
-
-何かご質問やご連絡がありましたら、お気軽に [メールアドレス] までご連絡ください。
