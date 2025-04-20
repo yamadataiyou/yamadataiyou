@@ -1,0 +1,22 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"  # 6時間ごとに実行
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: your-username  # あなたのGitHubユーザー名に置き換えてください
+          svg: true
+          gif: false
+      - name: Commit and push SVG
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: your-name
+          author_email: your-email@example.com
+          message: "Generate snake SVG"
