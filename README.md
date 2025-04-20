@@ -1,14 +1,5 @@
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yamadataiyou&style=plastic&color=blueviolet" alt="Profile Views"/>
-</p>
-
-https://typograssy.deno.dev/api?text=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%20!%20!%20%E5%B1%B1%E7%94%B0%20%E5%A4%A7%E9%99%BD%E3%81%A7%E3%81%99%20!%20!&l1=9bcaa3&l4=228742&speed=1000
-
 ![Typograssy Text](https://typograssy.deno.dev/api?text=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%20!%20!%20%E5%B1%B1%E7%94%B0%20%E5%A4%A7%E9%99%BD%E3%81%A7%E3%81%99%20!%20!&l1=9bcaa3&l4=228742&speed=100)
-
-<!-- 自己紹介 -->
-<h1 align="center">こんにちは、大陽です ☀️</h1>
 
 ---
 
