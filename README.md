@@ -4,9 +4,7 @@
 </p>
 
 <!-- スネークゲームアニメーション -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yamadataiyou/yamadataiyou/main/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</p>
+[![typograssy](https://typograssy.deno.dev/api?text=Hello%20world!)](https://github.com/kawarimidoll/typograssy)
 
 
 <!-- 自己紹介 -->
