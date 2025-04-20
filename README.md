@@ -5,7 +5,7 @@
 
 <!-- スネークゲームアニメーション -->
 <p align="center">
-  <img src="https://github.com/yamadataiyou/yamadataiyou/blob/main/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/yamadataiyou/yamadataiyou/main/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
 
 
