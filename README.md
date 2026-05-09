@@ -4,7 +4,5 @@
   
 ![--------------------------------------------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<p align="center">
-  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=TaiyoYamada&show_icons=true&theme=radical" />
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaiyoYamada&layout=compact&theme=radical" />
-</p>
+
+![GitHub stats](https://github-readme-card-ashy.vercel.app/api/stats)
